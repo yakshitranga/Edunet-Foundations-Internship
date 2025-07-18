@@ -1,1 +1,2 @@
-# Edunet-Foundations-Internship
+# Edunet Foundations Internship
+Week 1:
